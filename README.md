@@ -1,5 +1,6 @@
 # LOAN_APPROVAL
-![Imag](e9https://image.shutterstock.com/image-photo/two-hands-holding-brown-cardboard-260nw-144683021.jpg)
+![Imag](https://i0.wp.com/www.collegestationhomes.com/wp-content/uploads/2021/09/Loan-Approval-06791459-scaled.jpg?ssl=1)
+
 ----------------------------------------------
 # EDA ( Exploratory Data Analysis ) :--
 

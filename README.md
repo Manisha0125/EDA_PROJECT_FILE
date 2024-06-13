@@ -1,4 +1,5 @@
 # LOAN_APPROVAL
+![Imag](e9https://image.shutterstock.com/image-photo/two-hands-holding-brown-cardboard-260nw-144683021.jpg)
 ----------------------------------------------
 # EDA ( Exploratory Data Analysis ) :--
 
